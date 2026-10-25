@@ -1,0 +1,6 @@
+{
+  "name": "CareWell Health",
+  "description": "A modern, premium, patient-centered healthcare experience offering primary care, virtual consultations, and personalized wellness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
